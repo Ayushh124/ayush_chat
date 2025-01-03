@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json.schemastore.org/package",
+  
   "name": "ayush_chat",
   "version": "1.0.0",
   "description": "Nexus is a real-time chat application built using Socket.IO and JavaScript.",
