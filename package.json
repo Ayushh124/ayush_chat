@@ -8,8 +8,6 @@
     "start": "nodemon backend/server.js",
     "server": "nodemon backend/server.js",
     "build": "cd frontend && npm install && npm run build"
-
-
   },
   "keywords": [
     "mern",
@@ -28,6 +26,8 @@
     "mongoose": "^8.9.2",
     "next": "^15.1.2",
     "nodemon": "^2.0.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "socket.io": "^4.8.1"
   }
 }
