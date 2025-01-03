@@ -1,5 +1,4 @@
 {
-  
   "name": "ayush_chat",
   "version": "1.0.0",
   "description": "Nexus is a real-time chat application built using Socket.IO and JavaScript.",
@@ -9,10 +8,7 @@
     "server": "nodemon backend/server.js",
     "build": "cd frontend && npm install && npm run build"
   },
-  "keywords": [
-    "mern",
-    "chat-app"
-  ],
+  "keywords": ["mern", "chat-app"],
   "author": "AYUSH GUPTA",
   "license": "ISC",
   "dependencies": {
